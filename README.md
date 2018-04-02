@@ -11,5 +11,10 @@ OR:
 
 ## build xcode project
 mkdir -p xcode && cd xcode && cmake .. -G Xcode
+
+
+
+
+
 open xcode build
 run simple_app
